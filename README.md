@@ -14,4 +14,4 @@ $ kbd.exe
 C++
 
 ## 開発者
-[bonochof](https://giuhub/bonochof)
+[bonochof](https://github.com/bonochof)
